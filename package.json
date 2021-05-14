@@ -2,7 +2,7 @@
   "name": "chatbot-regione",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maidacundo.github.io/covidbot-website",
+  "homepage": "https://maidacundo.github.io/covidbot-website/",
   "dependencies": {
     "botframework-webchat": "^4.13.0",
     "classnames": "^2.3.1",
