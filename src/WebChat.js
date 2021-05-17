@@ -9,7 +9,13 @@ const WebChat = ({ className, onFetchToken, store, token }) => {
   const styleSet = useMemo(
     () =>
       createStyleSet({
-        backgroundColor: 'Transparent'
+        backgroundColor: 'White',
+        bubbleBorderRadius: 6,
+        hideUploadButton: true,
+        bubbleBackground: 'rgba(242, 241, 239, 0.2)',
+        bubbleFromUserBackground: 'rgba(242, 241, 239, 0.2)',
+        suggestedActionBorderColor: 'rgba(108, 122, 137, 1)',
+        suggestedActionLayout: 'flow'
       }),
     []
   );
@@ -26,7 +32,7 @@ const WebChat = ({ className, onFetchToken, store, token }) => {
         <div className="icon">
           <span className="ms-Icon ms-Icon--Robot" />
         </div>
-        <p>Please wait while we are connecting.</p>
+        <p>Mi sto connettendo al servizio...</p>
       </div>
     </div>
   );

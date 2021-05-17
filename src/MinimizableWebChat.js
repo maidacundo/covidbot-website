@@ -35,7 +35,10 @@ const MinimizableWebChat = () => {
   const styleSet = useMemo(
     () =>
       createStyleSet({
-        backgroundColor: 'Transparent'
+        backgroundColor: 'Transparent',
+        subtle: 'White',
+        bubbleBackground: 'rgba(0, 0, 255, .1)',
+        bubbleFromUserBackground: 'rgba(0, 255, 0, .1)'
       }),
     []
   );
