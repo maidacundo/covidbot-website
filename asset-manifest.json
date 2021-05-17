@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/covidbot-website/static/css/main.9686dea9.chunk.css",
-    "main.js": "/covidbot-website/static/js/main.746dee90.chunk.js",
-    "main.js.map": "/covidbot-website/static/js/main.746dee90.chunk.js.map",
+    "main.js": "/covidbot-website/static/js/main.ce6b54fa.chunk.js",
+    "main.js.map": "/covidbot-website/static/js/main.ce6b54fa.chunk.js.map",
     "runtime-main.js": "/covidbot-website/static/js/runtime-main.4be0070f.js",
     "runtime-main.js.map": "/covidbot-website/static/js/runtime-main.4be0070f.js.map",
     "static/js/2.798b1bcb.chunk.js": "/covidbot-website/static/js/2.798b1bcb.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.4be0070f.js",
     "static/js/2.798b1bcb.chunk.js",
     "static/css/main.9686dea9.chunk.css",
-    "static/js/main.746dee90.chunk.js"
+    "static/js/main.ce6b54fa.chunk.js"
   ]
 }
