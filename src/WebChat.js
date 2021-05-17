@@ -14,8 +14,7 @@ const WebChat = ({ className, onFetchToken, store, token }) => {
         hideUploadButton: true,
         bubbleBackground: 'rgba(242, 241, 239, 0.2)',
         bubbleFromUserBackground: 'rgba(242, 241, 239, 0.2)',
-        suggestedActionBorderColor: 'rgba(108, 122, 137, 1)',
-        suggestedActionLayout: 'flow'
+        suggestedActionBorderColor: 'rgba(108, 122, 137, 1)'
       }),
     []
   );
